@@ -1,0 +1,7 @@
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\bin\Debug\EcapsulationSudyWithDieClass.exe.config
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\bin\Debug\EcapsulationSudyWithDieClass.exe
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\bin\Debug\EcapsulationSudyWithDieClass.pdb
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\obj\Debug\EcapsulationSudyWithDieClass.csprojAssemblyReference.cache
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\obj\Debug\EcapsulationSudyWithDieClass.csproj.CoreCompileInputs.cache
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\obj\Debug\EcapsulationSudyWithDieClass.exe
+C:\Users\TheRealCasadaro\source\repos\EcapsulationSudyWithDieClass\EcapsulationSudyWithDieClass\obj\Debug\EcapsulationSudyWithDieClass.pdb
